@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a 17 y/o developper, I do c++, javascript, and some python.
+
+I'm currently working on a math library and a simple minecraft clone with opengl and c++
+
 <!--
 **Sh3xe/Sh3xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

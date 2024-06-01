@@ -11,3 +11,4 @@ Bosse sur un moteur 3D avec OpenGL en C++
 * React / MUI / Express
 * C / C++
 * Ocaml
+* Zig

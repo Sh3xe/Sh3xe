@@ -5,10 +5,4 @@
 
 Bosse sur un moteur 3D avec OpenGL en C++
 
-## Technos:
-
-* Javascript / HTML / CSS
-* React / MUI / Express
-* C / C++
-* Ocaml
-* Zig
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,sqlite,cpp,c,rust,zig)](https://skillicons.dev)

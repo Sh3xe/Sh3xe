@@ -2,7 +2,5 @@
 
 Étudiant à l'ENSTA Paris
 
-
-Bosse sur un moteur 3D avec OpenGL en C++
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,sqlite,cpp,c,rust,zig)](https://skillicons.dev)
+# Compétences
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,js,react,express,sqlite,sequelize,ocaml,cpp,c,rust,zig)](https://skillicons.dev)
